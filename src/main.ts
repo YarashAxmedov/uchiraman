@@ -1,1 +1,4 @@
-let a:number = 5
+
+
+import pupils, {a,b} form "./pupils";
+
